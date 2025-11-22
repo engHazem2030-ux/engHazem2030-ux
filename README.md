@@ -22,9 +22,10 @@ I'm *Hazem Bekheit*, **Data Scientist & Programming Problem Solver** from *Egypt
 
 | 🎁 Project | ⭐ Stars | 📚 Forks | 💻 Language | 📂 Repository |
 |------------|----------|----------|-------------|----------------|
-| *Library Management System (C++)* | ![Stars](https://img.shields.io/github/stars/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | [View on GitHub](https://github.com/proghazem2030-debug/hazem-bekhet) |
+| *Library Management System (C++)* | ![Stars](https://img.shields.io/github/stars/engHazem2030-ux/Library-Management-System-C++?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/engHazem2030-ux/Library-Management-System-C++?style=flat-square&labelColor=343b41) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | [View on GitHub](https://github.com/engHazem2030-ux/Library-Management-System-C++) |
 
 A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists.
+
 
 ---
 
@@ -38,13 +39,12 @@ A comprehensive C++ project that applies concepts of *Object-Oriented Programmin
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=30)](https://codeforces.com/profile/eng.hazembekheit2030)
 
 ---
-
 <p align="center">
 This <i>README</i> file was created with ❤ by <b>Hazem Bekheit</b>.<br/>
 Data Scientist & Programming Problem Solver
 </p>
 
 <p align="center">
-![Stars](https://img.shields.io/github/stars/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41)
-![Forks](https://img.shields.io/github/forks/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41)
+![Stars](https://img.shields.io/github/stars/engHazem2030-ux/Library-Management-System-C++?style=flat-square&labelColor=343b41)
+![Forks](https://img.shields.io/github/forks/engHazem2030-ux/Library-Management-System-C++?style=flat-square&labelColor=343b41)
 </p>
