@@ -20,9 +20,25 @@ I'm *Hazem Bekheit*, **Data Scientist & Programming Problem Solver** from *Egypt
 
 ## 📘 My Projects
 
+## 📘 My Projects
+
 | 🎁 Project | ⭐ Stars | 📚 Forks | 💻 Language | 📂 Repository |
 |------------|----------|----------|-------------|----------------|
-| *Library Management System (C++)* | ![Stars](https://img.shields.io/github/stars/engHazem2030-ux/Library-Management-System-C++?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/engHazem2030-ux/Library-Management-System-C++?style=flat-square&labelColor=343b41) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | [View on GitHub](https://github.com/engHazem2030-ux/Library-Management-System-C++) |
+| *Library Management System (C++)* | ![Stars](https://img.shields.io/github/stars/engHazem2030-ux/Library-Management-System-cpp?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/engHazem2030-ux/Library-Management-System-cpp?style=flat-square&labelColor=343b41) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | [View on GitHub](https://github.com/engHazem2030-ux/Library-Management-System-cpp) |
+
+A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists.
+
+---
+
+<p align="center">
+This <i>README</i> file was created with ❤ by <b>Hazem Bekheit</b>.<br/>
+Data Scientist & Programming Problem Solver
+</p>
+
+<p align="center">
+![Stars](https://img.shields.io/github/stars/engHazem2030-ux/Library-Management-System-cpp?style=flat-square&labelColor=343b41)
+![Forks](https://img.shields.io/github/forks/engHazem2030-ux/Library-Management-System-cpp?style=flat-square&labelColor=343b41)
+</p>
 
 A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists.
 
