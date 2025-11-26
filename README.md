@@ -19,7 +19,6 @@ I'm *Hazem Bekheit*, **Data Scientist & Programming Problem Solver** from *Egypt
 
 ---
 
-## 📘 My Projects
 
 ## 📘 My Projects
 
