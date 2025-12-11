@@ -57,7 +57,7 @@ A comprehensive C++ project that applies concepts of *Object-Oriented Programmin
 
 ---
 
-## 📬 Contact Me
+## 📬 My Connections
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/proghazem2030-debug/hazem-bekhet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/hazem-bekheit-65195534a)
@@ -65,6 +65,8 @@ A comprehensive C++ project that applies concepts of *Object-Oriented Programmin
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:proghazem2030@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30)](https://wa.me/qr/56KDPW4XRYDWI1)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=30)](https://codeforces.com/profile/eng.hazembekheit2030)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=30)](https://leetcode.com/<username>
+)
 
 ---
 <p align="center">
