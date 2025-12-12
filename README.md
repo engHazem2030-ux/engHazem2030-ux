@@ -23,7 +23,7 @@
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png" alt="Python"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/anaconda--v2.png" alt="Anaconda"/>
+	<img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/fluency/144/000000/github.png" alt="GitHub"/>
