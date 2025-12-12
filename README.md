@@ -73,12 +73,3 @@ A comprehensive C++ project that applies concepts of *Object-Oriented Programmin
 )
 
 ---
-<p align="center">
-This <i>README</i> file was created with ❤ by <b>Hazem Bekheit</b>.<br/>
-Data Scientist & Programming Problem Solver
-</p>
-
-<p align="center">
-![Stars](https://img.shields.io/github/stars/engHazem2030-ux/Library-Management-System-C++?style=flat-square&labelColor=343b41)
-![Forks](https://img.shields.io/github/forks/engHazem2030-ux/Library-Management-System-C++?style=flat-square&labelColor=343b41)
-</p>
