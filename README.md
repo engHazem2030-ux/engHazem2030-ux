@@ -16,6 +16,8 @@
 
     <p align = "center">
       </p>
+
+      
 ## 💻 Technical Skills
 
 <p align="center">
