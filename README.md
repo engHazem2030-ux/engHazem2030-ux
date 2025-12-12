@@ -19,12 +19,11 @@
 
 ## 🧠 Things I Code With
 
-### Programming Languages & Tools
+### 🖥️ Programming Languages
 
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
 </p>
 
 ---
@@ -38,12 +37,11 @@
 
 ---
 
-### 🧰 Tools & Platforms
+### ⚙️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
 
 
 ## 📘 My Projects
