@@ -32,17 +32,29 @@
 
 
 ---
+### 🧩 Libraries & Frameworks
 
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+---
+
+### ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
 ## 📘 My Projects
 
 | 🎁 Project | ⭐ Stars | 📚 Forks | 💻 Language | 📂 Repository |
 |------------|----------|----------|-------------|----------------|
-| *Library Management System (C++)* | ![Stars](https://img.shields.io/github/stars/engHazem2030-ux/Library-Management-System-cpp?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/engHazem2030-ux/Library-Management-System-cpp?style=flat-square&labelColor=343b41) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | [View on GitHub](https://github.com/engHazem2030-ux/Library-Management-System-cpp) |
+| *Library Management System (C++)* | 
 
 A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists.
-
 
 
 ---
