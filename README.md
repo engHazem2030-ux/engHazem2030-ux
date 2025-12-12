@@ -17,7 +17,6 @@
     <p align = "center">
       </p>
 
-## 🧠 Things I Code With
 
 ### 🖥️ Programming Languages
 
