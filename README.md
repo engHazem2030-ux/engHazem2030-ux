@@ -34,6 +34,7 @@
 ---
 ### 🧩 Libraries & Frameworks & ⚙️ Tools & Platforms
 
+![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
