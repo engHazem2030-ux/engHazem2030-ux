@@ -26,7 +26,8 @@
 	<img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/fluency/144/000000/github.png" alt="GitHub"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/fluency/144/000000/github.png" alt="Git"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/jupyter.png" alt="Jupyter"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/notion.png" alt="Notion"/>
 </p>
 
@@ -39,8 +40,6 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
