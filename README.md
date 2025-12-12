@@ -16,8 +16,6 @@
 
     <p align = "center">
       </p>
-
-
 ## 💻 Technical Skills
 
 <p align="center">
@@ -27,9 +25,11 @@
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+    <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/notion.png" alt="Notion"/>
 </p>
+
 
 
 ---
