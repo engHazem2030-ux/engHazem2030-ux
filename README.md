@@ -52,11 +52,6 @@
 
 A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists.
 
----
-
-
-
-A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists.
 
 
 ---
