@@ -18,29 +18,21 @@
       </p>
 
 
-### 🖥️ Programming Languages
+## 💻 Technical Skills
 
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png" alt="Python"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/anaconda--v2.png" alt="Anaconda"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/fluency/144/000000/github.png" alt="GitHub"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/notion.png" alt="Notion"/>
 </p>
 
----
-
-### 🧩 Libraries & Frameworks
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ---
 
-### ⚙️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
 ## 📘 My Projects
