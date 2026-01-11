@@ -36,7 +36,7 @@
 
 ### 🧩 Libraries & Frameworks & ⚙️ Tools & Platforms
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/-NoSQL-FF6F00?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/-Data%20Structures-9E3F9E?style=for-the-badge&logo=programming&logoColor=white" alt="Data Structures"/>
   <img src="https://img.shields.io/badge/-Algorithms-FF5733?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algorithms"/>
 </p>
-
 
 
 ---
