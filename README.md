@@ -65,13 +65,15 @@
 | Library Management System | C++ | A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists. |
 
 ---
-
 ## 📬 My Connections
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/proghazem2030-debug/hazem-bekhet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/hazem-bekheit-65195534a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:proghazem2030@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30)](https://wa.me/qr/56KDPW4XRYDWI1)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=30)](https://codeforces.com/profile/eng.hazembekheit2030)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1F8ACB?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=30)](https://leetcode.com/engHazem2030)
+<p align="left">
+<a href="https://voluble-flan-d99cb7.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="https://github.com/proghazem2030-debug/hazem-bekhet"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hazem-bekheit-65195534a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:proghazem2030@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/qr/56KDPW4XRYDWI1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/eng.hazembekheit2030"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://leetcode.com/engHazem2030"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
