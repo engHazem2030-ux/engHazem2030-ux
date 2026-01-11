@@ -35,6 +35,7 @@
 ---
 
 ### 🧩 Libraries & Frameworks & ⚙️ Tools & Platforms
+
 <p align="center">
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white&logoWidth=40&fontSize=16)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=40&fontSize=16)
@@ -44,6 +45,7 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&logoWidth=40&fontSize=16)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&logoWidth=40&fontSize=16)
 </p>
+
 ---
 
 ## 📘 My Projects
@@ -62,4 +64,3 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30)](https://wa.me/qr/56KDPW4XRYDWI1)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=30)](https://codeforces.com/profile/eng.hazembekheit2030)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1F8ACB?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=30)](https://leetcode.com/engHazem2030)
-
