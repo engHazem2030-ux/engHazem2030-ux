@@ -29,7 +29,9 @@
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
+    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
 </p>
+
 
 ---
 
@@ -46,7 +48,6 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&logoWidth=20" alt="Excel"/>
 <img src="https://img.shields.io/badge/-OOP-8A2BE2?style=for-the-badge&logoColor=white&logoWidth=20" alt="OOP"/>
 <img src="https://img.shields.io/badge/-GUI-9400D3?style=for-the-badge&logo=python&logoColor=white&logoWidth=20" alt="GUI"/>
 <img src="https://img.shields.io/badge/-Data%20Structures-9E3F9E?style=for-the-badge&logoColor=white&logoWidth=20" alt="Data Structures"/>
