@@ -51,7 +51,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-OOP-8A2BE2?style=for-the-badge&logoColor=white&logoWidth=20" alt="OOP"/>
-<img src="https://img.shields.io/badge/-GUI-9400D3?style=for-the-badge&logo=python&logoColor=white&logoWidth=20" alt="GUI"/>
 <img src="https://img.shields.io/badge/-Data%20Structures-9E3F9E?style=for-the-badge&logoColor=white&logoWidth=20" alt="Data Structures"/>
 <img src="https://img.shields.io/badge/-Algorithms-FF5733?style=for-the-badge&logoColor=white&logoWidth=20" alt="Algorithms"/>
 </p>
