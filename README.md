@@ -44,7 +44,6 @@
 <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=20" alt="Pandas"/>
 <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoWidth=20" alt="NumPy"/>
 <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&logoWidth=20" alt="Matplotlib
-<img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&logoWidth=20" alt="SciPy"/>
 <img src="https://img.shields.io/badge/-Seaborn-9E3F9E?style=for-the-badge&logo=seaborn&logoColor=white&logoWidth=20" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&logoWidth=20" alt="Scikit-learn"/>
 </p>
