@@ -43,13 +43,15 @@
 <img src="https://img.shields.io/badge/-NoSQL-FF6F00?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=20" alt="NoSQL"/>
 <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=20" alt="Pandas"/>
 <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoWidth=20" alt="NumPy"/>
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&logoWidth=20" alt="Matplotlib
+<img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&logoWidth=20" alt="SciPy"/>
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&logoWidth=20" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/-Seaborn-9E3F9E?style=for-the-badge&logo=seaborn&logoColor=white&logoWidth=20" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&logoWidth=20" alt="Scikit-learn"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-OOP-8A2BE2?style=for-the-badge&logoColor=white&logoWidth=20" alt="OOP"/>
+<img src="https://img.shields.io/badge/-GUI-9400D3?style=for-the-badge&logo=python&logoColor=white&logoWidth=20" alt="GUI"/>
 <img src="https://img.shields.io/badge/-Data%20Structures-9E3F9E?style=for-the-badge&logoColor=white&logoWidth=20" alt="Data Structures"/>
 <img src="https://img.shields.io/badge/-Algorithms-FF5733?style=for-the-badge&logoColor=white&logoWidth=20" alt="Algorithms"/>
 </p>
