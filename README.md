@@ -1,7 +1,7 @@
 <h1 align="center">Hey , I'm Hazem Bekhet</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Application+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,15 +23,14 @@
 <p align="center">
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png" alt="Python"/>
-    <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda"/>
+    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="JavaScript"/>
+    <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-    <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/my-sql.png" alt="MySQL"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/microsoft-excel-2019.png" alt="Excel"/>
 </p>
 
 ---
@@ -39,20 +38,17 @@
 ### 🧩 Libraries & Frameworks & ⚙️ Tools & Platforms
 
 <p align="center">
-<img src="https://img.shields.io/badge/-SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20" alt="SQL"/>
-<img src="https://img.shields.io/badge/-NoSQL-FF6F00?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=20" alt="NoSQL"/>
-<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=20" alt="Pandas"/>
-<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoWidth=20" alt="NumPy"/>
-<img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&logoWidth=20" alt="SciPy"/>
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&logoWidth=20" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/-Seaborn-9E3F9E?style=for-the-badge&logo=seaborn&logoColor=white&logoWidth=20" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&logoWidth=20" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/-LLMs-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/-APIs%20Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="APIs"/>
+<img src="https://img.shields.io/badge/-Prompt%20Engineering-412991?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/-SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/-NoSQL-FF6F00?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-OOP-8A2BE2?style=for-the-badge&logoColor=white&logoWidth=20" alt="OOP"/>
-<img src="https://img.shields.io/badge/-Data%20Structures-9E3F9E?style=for-the-badge&logoColor=white&logoWidth=20" alt="Data Structures"/>
-<img src="https://img.shields.io/badge/-Algorithms-FF5733?style=for-the-badge&logoColor=white&logoWidth=20" alt="Algorithms"/>
+<img src="https://img.shields.io/badge/-OOP-8A2BE2?style=for-the-badge&logoColor=white" alt="OOP"/>
+<img src="https://img.shields.io/badge/-Data%20Structures-9E3F9E?style=for-the-badge&logoColor=white" alt="Data Structures"/>
+<img src="https://img.shields.io/badge/-Algorithms-FF5733?style=for-the-badge&logoColor=white" alt="Algorithms"/>
 </p>
 
 ---
