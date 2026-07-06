@@ -35,9 +35,10 @@
 
 ---
 
-### 🧩 Libraries & Frameworks & ⚙️ Tools & Platforms
+## 🧩 Libraries & Frameworks & ⚙️ Tools & Platforms
 
 <p align="center">
+<img src="https://img.shields.io/badge/-LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/-LLMs-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
 <img src="https://img.shields.io/badge/-APIs%20Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="APIs"/>
 <img src="https://img.shields.io/badge/-Prompt%20Engineering-412991?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
