@@ -23,6 +23,7 @@
 <p align="center">
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png" alt="Python"/>
+    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="HTML5"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="JavaScript"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/typescript.png" alt="TypeScript"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
