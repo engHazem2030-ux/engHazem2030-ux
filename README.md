@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/-LLMs-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
 <img src="https://img.shields.io/badge/-APIs%20Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="APIs"/>
 <img src="https://img.shields.io/badge/-Prompt%20Engineering-412991?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/-SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/-NoSQL-FF6F00?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"/>
 </p>
