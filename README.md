@@ -26,10 +26,8 @@
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="HTML5"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/css3.png" alt="CSS3"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="JavaScript"/>
-    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/typescript.png" alt="TypeScript"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/notion.png" alt="Notion"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
@@ -45,8 +43,10 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/-LLMs-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/-Claude-D97753?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
 <img src="https://img.shields.io/badge/-APIs%20Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="APIs"/>
 <img src="https://img.shields.io/badge/-Prompt%20Engineering-412991?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/-SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
