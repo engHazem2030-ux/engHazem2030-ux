@@ -38,7 +38,7 @@
 
 ---
 
-## 🧩 Libraries & Frameworks & ⚙️ Tools & Platforms
+## Frameworks & ⚙️ Tools & Platforms
 
 <p align="center">
 <img src="https://img.shields.io/badge/-LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
