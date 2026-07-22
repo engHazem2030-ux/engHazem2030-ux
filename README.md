@@ -31,7 +31,6 @@
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/my-sql.png" alt="MySQL"/>
-    <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
 </p>
 
 ---
@@ -46,10 +45,11 @@
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/-Prompt%20Engineering-412991?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
 <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/-SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+
 </p>
 
 <p align="left">
+<img src="https://img.shields.io/badge/-SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/-OOP-8A2BE2?style=for-the-badge&logoColor=white" alt="OOP"/>
 <img src="https://img.shields.io/badge/-Data%20Structures-9E3F9E?style=for-the-badge&logoColor=white" alt="Data Structures"/>
 <img src="https://img.shields.io/badge/-Algorithms-FF5733?style=for-the-badge&logoColor=white" alt="Algorithms"/>
