@@ -38,23 +38,21 @@
 ## Frameworks & ⚙️ Tools & Platforms
 
 <p align="center">
-<img src="https://img.shields.io/badge/-LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/-LLMs-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
-<img src="https://img.shields.io/badge/-Claude-D97753?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-<img src="https://img.shields.io/badge/-APIs%20Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="APIs"/>
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/-Prompt%20Engineering-412991?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/-LLMs-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/-Claude-D97753?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/-APIs%20Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="APIs"/>
+  <img src="https://img.shields.io/badge/-Prompt%20Engineering-412991?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
 </p>
 
-<p align="left">
-<img src="https://img.shields.io/badge/-SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/-OOP-8A2BE2?style=for-the-badge&logoColor=white" alt="OOP"/>
-<img src="https://img.shields.io/badge/-Data%20Structures-9E3F9E?style=for-the-badge&logoColor=white" alt="Data Structures"/>
-<img src="https://img.shields.io/badge/-Algorithms-FF5733?style=for-the-badge&logoColor=white" alt="Algorithms"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/-SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/-OOP-8A2BE2?style=for-the-badge&logoColor=white" alt="OOP"/>
+  <img src="https://img.shields.io/badge/-Data%20Structures-9E3F9E?style=for-the-badge&logoColor=white" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/-Algorithms-FF5733?style=for-the-badge&logoColor=white" alt="Algorithms"/>
 </p>
-
 ---
 
 ## 📘 My Projects
