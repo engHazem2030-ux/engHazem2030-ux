@@ -26,8 +26,6 @@
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="HTML5"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/css3.png" alt="CSS3"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="JavaScript"/>
-    <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-    <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
