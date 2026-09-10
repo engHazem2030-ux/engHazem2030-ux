@@ -1,18 +1,18 @@
 <h1 align="center">Hey , I'm Hazem Bekhet</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI Automation Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&height=70&lines=AI%20Automation%20Engineer" alt="Typing SVG" />
 </p>
 
 <p align="left">
     <a href="https://github.com/proghazem2030-debug/hazem-bekhet">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000" alt="Typing SVG Updates" />
     </a>
 </p>
 
 <p align="left">
     <a href="https://github.com/proghazem2030-debug/hazem-bekhet">
-        <img src="https://komarev.com/ghpvc/?username=proghazem2030-debug&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/>
+        <img src="https://komarev.com/ghpvc/?username=proghazem2030-debug&style=flat&color=3010A0" style="height:26px; object-fit:contain;" alt="Profile Views" />
     </a>
 </p>
 
@@ -23,6 +23,7 @@
 <p align="center">
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png" alt="Python"/>
+    <img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
     <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
@@ -35,6 +36,7 @@
 ## Frameworks & ⚙️ Tools & Platforms
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/-LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/-LLMs-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
   <img src="https://img.shields.io/badge/-Claude-D97753?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
@@ -50,6 +52,7 @@
   <img src="https://img.shields.io/badge/-Data%20Structures-9E3F9E?style=for-the-badge&logoColor=white" alt="Data Structures"/>
   <img src="https://img.shields.io/badge/-Algorithms-FF5733?style=for-the-badge&logoColor=white" alt="Algorithms"/>
 </p>
+
 ---
 
 ## 📘 My Projects
@@ -62,9 +65,8 @@
 
 ## 📬 My Connections
 <p align="left">
-<a href="https://voluble-flan-d99cb7.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
-<a href="https://github.com/proghazem2030-debug/hazem-bekhet"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://twitter.com/haz40786"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/hazem-bekheit-65195534a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<a href="https://voluble-flan-d99cb7.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/proghazem2030-debug/hazem-bekhet"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://twitter.com/haz40786"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/hazem-bekheit-65195534a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
