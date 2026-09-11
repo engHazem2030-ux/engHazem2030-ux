@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/proghazem2030-debug/hazem-bekhet">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&vCenter=true&color=30F050&pause=2000&width=450&height=40" alt="Typing SVG Updates" />
+    <a href="https://komarev.com/ghpvc/?username=proghazem2030-debug&style=flat&color=3010A0">
+        <img src="https://komarev.com/ghpvc/?username=proghazem2030-debug&style=flat&color=3010A0" style="height:28px; vertical-align:middle;" alt="Profile Views" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://drive.google.com/file/d/1MHunAm7k986LRf1nP4NuyurJDb5oXFE0/view?usp=drive_link" target="_blank">
+        <img src="https://img.shields.io/badge/View_Resume_PDF-34A853?style=flat&logo=googledrive&logoColor=white" style="height:28px; vertical-align:middle;" alt="Resume PDF" />
     </a>
 </p>
 
