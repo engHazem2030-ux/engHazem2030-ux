@@ -6,17 +6,11 @@
 
 <p align="center">
     <a href="https://komarev.com/ghpvc/?username=proghazem2030-debug&style=flat&color=3010A0">
-        <img src="https://komarev.com/ghpvc/?username=proghazem2030-debug&style=flat&color=3010A0" style="height:28px; vertical-align:middle;" alt="Profile Views" />
+        <img src="https://komarev.com/ghpvc/?username=proghazem2030-debug&style=flat&color=3010A0" style="height:32px; vertical-align:middle;" alt="Profile Views" />
     </a>
     &nbsp;&nbsp;
     <a href="https://drive.google.com/file/d/1MHunAm7k986LRf1nP4NuyurJDb5oXFE0/view?usp=drive_link" target="_blank">
-        <img src="https://img.shields.io/badge/View_Resume_PDF-34A853?style=flat&logo=googledrive&logoColor=white" style="height:28px; vertical-align:middle;" alt="Resume PDF" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/proghazem2030-debug/hazem-bekhet">
-        <img src="https://komarev.com/ghpvc/?username=proghazem2030-debug&style=flat&color=3010A0" style="height:26px; object-fit:contain;" alt="Profile Views" />
+        <img src="https://img.shields.io/badge/My_CV-34A853?style=for-the-badge&logo=googledrive&logoColor=white" style="height:32px; vertical-align:middle;" alt="My CV" />
     </a>
 </p>
 
@@ -25,13 +19,13 @@
 ## 💻 Technical Skills
 
 <p align="center">
-    <img width="55px" height="55px" style="padding: 0 10px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++"/>
-    <img width="55px" height="55px" style="padding: 0 10px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/python.png" alt="Python"/>
-    <img width="55px" height="55px" style="padding: 0 10px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
-    <img width="55px" height="55px" style="padding: 0 10px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
-    <img width="55px" height="55px" style="padding: 0 10px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-    <img width="55px" height="55px" style="padding: 0 10px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-    <img width="55px" height="55px" style="padding: 0 10px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/my-sql.png" alt="MySQL"/>
+    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++"/>
+    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/python.png" alt="Python"/>
+    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
+    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
+    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/my-sql.png" alt="MySQL"/>
 </p>
 
 ---
@@ -60,13 +54,14 @@
 
 ## 📘 My Projects
 
-| 🎁 Project | 💻 Language | 📂 Description |
-|------------|-------------|----------------|
-| Library Management System | C++ | A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists. |
+| 🎁 Project                | 💻 Language | 📂 Description                                                                                                                                                                                                                |
+| ------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Library Management System | C++         | A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists. |
 
 ---
 
 ## 📬 My Connections
+
 <p align="left">
 <a href="https://voluble-flan-d99cb7.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/proghazem2030-debug/hazem-bekhet"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
