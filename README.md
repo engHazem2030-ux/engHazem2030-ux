@@ -1,7 +1,7 @@
 <h1 align="center">Hey , I'm Hazem Bekhet</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=AI%20Automation%20Engineer;AI%20Agents%20Developer;Workflow%20Automation%20Engineer;Building%20AI-Powered%20Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=AI%20Automation%20Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
