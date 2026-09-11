@@ -1,7 +1,7 @@
 <h1 align="center">Hey , I'm Hazem Bekhet</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=50&lines=AI%20Automation%20Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=AI%20Automation%20Engineer;AI%20Agents%20Developer;Workflow%20Automation%20Engineer;Building%20AI-Powered%20Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 ## 💻 Technical Skills
 
 <p align="center">
-    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++"/>
-    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/python.png" alt="Python"/>
-    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
-    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
-    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-    <img width="65px" height="65px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/my-sql.png" alt="MySQL"/>
+    <img width="85px" height="85px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++"/>
+    <img width="85px" height="85px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/python.png" alt="Python"/>
+    <img width="85px" height="85px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
+    <img width="85px" height="85px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
+    <img width="85px" height="85px" style="padding: 0 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+    <img width="85px" height="85px" style="padding: 0 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+    <img width="85px" height="85px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/my-sql.png" alt="MySQL"/>
 </p>
 
 ---
@@ -54,9 +54,9 @@
 
 ## 📘 My Projects
 
-| 🎁 Project                | 💻 Language | 📂 Description                                                                                                                                                                                                                |
-| ------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Library Management System | C++         | A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists. |
+| 🎁 Project | 💻 Language | 📂 Description |
+|------------|-------------|----------------|
+| Library Management System | C++ | A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists. |
 
 ---
 
