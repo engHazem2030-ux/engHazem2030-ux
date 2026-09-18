@@ -26,6 +26,7 @@
     <img width="85px" height="85px" style="padding: 0 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
     <img width="85px" height="85px" style="padding: 0 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
     <img width="85px" height="85px" style="padding: 0 12px; vertical-align: middle;" src="https://img.icons8.com/color/144/000000/my-sql.png" alt="MySQL"/>
+    <img width="85px" height="85px" style="padding: 0 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda Navigator"/>
 </p>
 
 ---
@@ -54,9 +55,9 @@
 
 ## 📘 My Projects
 
-| 🎁 Project | 💻 Language | 📂 Description |
-|------------|-------------|----------------|
-| Library Management System | C++ | A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists. |
+| 🎁 Project                | 💻 Language | 📂 Description                                                                                                                                                                                                                |
+| ------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Library Management System | C++         | A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists. |
 
 ---
 
