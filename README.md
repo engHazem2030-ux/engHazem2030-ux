@@ -56,7 +56,7 @@
 | 🎁 Project | 💻 Technologies / Focus | 📂 Description | 🔗 Links |
 | ---------- | ----------------------- | -------------- | -------- |
 | **Library Management System** | C++ | A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP)*, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists. | [📄 Code](https://github.com/engHazem2030-ux/Library-Management-System) |
-| **To-Do List App** | DevOps Learning & AI-Assisted Development | A hands-on project developed during my DevOps learning journey using **AI-assisted software engineering**. Built a responsive task management application featuring task creation, editing, filtering, deletion, and LocalStorage persistence, using React, TypeScript, and Vite. | [📄 Code](https://github.com/engHazem2030-ux/To-Do-List-App) • [🚀 Live Demo](https://to-do-list-1-nu.vercel.app/) |
+| **To-Do List App** | DevOps Learning & AI-Assisted Development | A hands-on project developed during my DevOps learning journey using **AI-assisted software engineering**. Built a responsive task management application featuring task creation, editing, filtering, deletion, and LocalStorage persistence, using React, TypeScript, and Vite. | [📄 Code](https://github.com/engHazem2030-ux/To-Do-List-App)|
 ---
 
 ## 📬 My Connections
